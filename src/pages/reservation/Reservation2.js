@@ -6,7 +6,6 @@ import { API } from "../../config";
 import Footer from "../../components/Footer";
 import Nav from "../../components/Nav";
 import Summary from "./Summary";
-import Textarea from "../../components/TextArea";
 import { bindActionCreators } from "redux";
 import { connect } from "react-redux";
 import styled from "styled-components";
